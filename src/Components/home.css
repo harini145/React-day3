@@ -1,0 +1,41 @@
+.div-main
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.424),rgba(0, 0, 0, 0.451)),url(https://static.vecteezy.com/system/resources/previews/011/332/525/large_2x/hand-drawn-coffee-concept-background-free-vector.jpg);
+    background-position: center;
+    background-size: cover ;
+    min-height :100vh;
+    width :100%;
+}
+.div-main h1{
+    color: white;
+    margin-left: 12%;
+    font-size: 4em;
+    font-weight: 900;
+    padding-top: 170px;
+}
+.div-main h2{
+    color: white;
+    margin-left: 20%;
+    font-size: 4em;
+    font-weight: 900;
+}
+.div-main p{
+    color: white;
+    margin-left: 12%;
+    font-size: 1.4em;
+}
+.div-main a{
+    text-decoration: none;
+    border: 2px solid white;
+    padding-inline: 30px;
+    padding-block: 10px;
+    border-radius: 30px;
+    color: white;
+    margin-left: 12%;
+    font-size: 1em;
+}
+.div-main a:hover{
+    color: black;
+    background: white;
+    transition: 0.5s;
+}
